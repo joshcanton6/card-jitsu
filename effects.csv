@@ -3,24 +3,24 @@ None,,1,none
 Gain 2 Power,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_2_Power.webp,1,gain-2-power
 Lose 2 Power,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_-2_Power.webp,1,lose-2-power
 Power Reversal,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Power_Reversal.webp,1,power-reversal
-Discard Fire,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Fire.webp,1,discard-fire
-Discard Water,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Water.webp,1,discard-water
-Disacard Snow,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Snow.webp,1,disacard-snow
-Discard Red,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Red_Card.webp,1,discard-red
-Discard All Red,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Red_Cards.webp,1,discard-all-red
-Discard Blue,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Blue_Card.webp,1,discard-blue
-Discard All Blue,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Blue_Cards.webp,1,discard-all-blue
-Discard Yellow,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Yellow_Card.webp,1,discard-yellow
-Discard All Yellow,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Yellow_Cards.webp,1,discard-all-yellow
-Discard Green,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Green_Card.webp,1,discard-green
-Discard All Green,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Green_Cards.webp,1,discard-all-green
-Discard Orange,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Orange_Card.webp,1,discard-orange
-Discard All Orange,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Orange_Cards.webp,1,discard-all-orange
-Discard Purple,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Purple_Card.webp,1,discard-purple
-Discard All Purple,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Purple_Cards.webp,1,discard-all-purple
-Change Fire to Snow,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Change_Fire_to_Snow.webp,1,change-fire-to-snow
-Change Snow to Water,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Change_Snow_to_Water.webp,1,change-snow-to-water
-Change Water to Fire,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Change_Water_to_Fire.webp,1,change-water-to-fire
+Discard Fire,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Fire.webp,0,discard-fire
+Discard Water,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Water.webp,0,discard-water
+Disacard Snow,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Snow.webp,0,disacard-snow
+Discard Red,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Red_Card.webp,0,discard-red
+Discard All Red,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Red_Cards.webp,0,discard-all-red
+Discard Blue,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Blue_Card.webp,0,discard-blue
+Discard All Blue,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Blue_Cards.webp,0,discard-all-blue
+Discard Yellow,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Yellow_Card.webp,0,discard-yellow
+Discard All Yellow,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Yellow_Cards.webp,0,discard-all-yellow
+Discard Green,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Green_Card.webp,0,discard-green
+Discard All Green,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Green_Cards.webp,0,discard-all-green
+Discard Orange,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Orange_Card.webp,0,discard-orange
+Discard All Orange,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Orange_Cards.webp,0,discard-all-orange
+Discard Purple,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Purple_Card.webp,0,discard-purple
+Discard All Purple,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Discard_Purple_Cards.webp,0,discard-all-purple
+Change Fire to Snow,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Change_Fire_to_Snow.webp,0,change-fire-to-snow
+Change Snow to Water,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Change_Snow_to_Water.webp,0,change-snow-to-water
+Change Water to Fire,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Change_Water_to_Fire.webp,0,change-water-to-fire
 Block Fire,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Block_Fire.webp,1,block-fire
 Block Water,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Block_Water.webp,1,block-water
 Block Snow,https://raw.githubusercontent.com/joshcanton6/card-jitsu-rscs/main/powers/CJ_Block_Snow.webp,1,block-snow

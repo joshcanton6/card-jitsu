@@ -55,10 +55,10 @@ Change snow cards to water cards this turn.
 Change water cards to fire cards this turn.
 
 <br><img src="/powers/CJ_Block_Fire.webp" height="100"><br>
-Your opponent can't play fire cards next turn.
+When this card is scored, your opponent can't play fire cards next turn.
 
 <br><img src="/powers/CJ_Block_Water.webp" height="100"><br>
-Your opponent can't play water cards next turn.
+When this card is scored, your opponent can't play water cards next turn.
 
 <br><img src="/powers/CJ_Block_Snow.webp" height="100"><br>
-Your opponent can't play snow cards next turn.
+When this card is scored, your opponent can't play snow cards next turn.

@@ -1,6 +1,6 @@
 # Card-Jitsu
 
-Card-Jitsu is a card game from the popular online game Club Penguin. The objective of the game is to beat your opponent by collecting sets of winning Card-Jitsu cards. More on the rules below.
+[Card-Jitsu](https://clubpenguin.fandom.com/wiki/Card-Jitsu) is a card game from the popular online game Club Penguin. The objective of the game is to beat your opponent by collecting sets of winning Card-Jitsu cards. More on the rules below.
 
 This version of Card-Jitsu is built using the tabletop engine from [PlayingCards.io Virtual Tabletop](https://playingcards.io). PlayingCards.io is a great way to play simple card games online with friends, or to create your own tabletop experience like this one.
 
